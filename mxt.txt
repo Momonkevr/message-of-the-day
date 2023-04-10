@@ -1,2 +1,4 @@
-Alot Of Bugs, Alot Of Hard Work. 
---Who (?3AM)
+Fixed mod buttons 
+
+
+TO-DO -> Hit sounds, Lag Spikes, Mod Platforms.
